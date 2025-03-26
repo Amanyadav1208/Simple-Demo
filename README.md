@@ -1,4 +1,4 @@
-# Simple-Demo
+# Snake Game
 
 1. Note this project is made by Aman (aka me)
 2. This is my first git hub project so it might be bad or problem :/
